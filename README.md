@@ -16,7 +16,7 @@ This project implements a statistical arbitrage strategy*on S&P 500 equities usi
 - **Cumulative Return:** +95% (with leverage)
 - **Sharpe Ratio:** 1.56
 - **Maximum Drawdown:** Refer to `top10_pairs_results.csv`
-- Outperformance (with leverage) versus the S&P 500 over 6 years; ![Portfolio vs. S&P 500](images/performance_graph.png)
+- Outperformance (with leverage) versus the S&P 500 over 6 years
 
 ## Project Structure
 data_loader.py # Data fetching and S&P 500 benchmark loader
