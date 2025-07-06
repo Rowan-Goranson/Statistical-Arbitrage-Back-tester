@@ -1,0 +1,7 @@
+#Project requirements
+
+pandas
+statsmodels
+yfinance
+matplotlib
+seaborn
